@@ -1,0 +1,4 @@
+"""kuy"""
+def main():
+    """main"""
+    
